@@ -1,1 +1,0 @@
-# arcface-android-sdk-for-reactnative

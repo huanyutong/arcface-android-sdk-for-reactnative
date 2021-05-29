@@ -34,6 +34,7 @@ repositories {
 dependencies {
     implementation fileTree(dir: "libs", include: ["*.jar"])
     embed(name:'arcfaceSdk', ext:'aar')
+    embed(name:'serialport-debug', ext:'aar')
 }
 
 buildscript {
